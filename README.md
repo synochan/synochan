@@ -26,6 +26,8 @@ C3 Web Note App**
 
 ###
 
+# Github Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=synochan)](https://github.com/synochan/github-profile-trophy)
 
 
